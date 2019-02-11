@@ -1,0 +1,54 @@
+body{
+background-color:#fbead1 ;
+}
+
+.description{
+    box-sizing: content-box;
+    background-color: #f5d9d9 ; 
+    width : 49%;    
+    margin-left : 250px;
+    position : relative;    
+    bottom: 255px;
+    left:95px;
+    height: 350px;
+}
+
+.myItem{
+   height : 10%; 
+}
+
+h1{
+    padding-top:35px; 
+    font-size: 50px;
+    text-align: center ;
+    color: #fbfbfb;
+    padding-bottom: 20px; 
+    text-decoration: underline overline;
+}
+
+h2{
+    font-size:40px;
+    text-align: center ;
+    top : 15px;
+}
+p{
+    padding-top :35px;
+    font-size: 22px;
+}
+
+form{  
+    background-color: #dfdfdf;
+    position : relative;    
+    box-sizing: 30px; 
+    bottom:225px;
+    width :100%;
+}
+
+textarea{
+   width: 90%;
+
+}
+
+#comment{
+  padding : 50px;
+}
